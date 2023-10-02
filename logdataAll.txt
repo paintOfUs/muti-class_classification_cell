@@ -1,0 +1,33 @@
+Anh 2C0 - Tong %\ chinh xac - Trung binh model
+xxxxxx    0.9137931034482759    0.820458514937039
+do to cua khoi cau 140-150 gom bao nhieu anh 23
+2 ,8 ,12 ,14 ,17 ,18 ,20 ,22 ,23 ,28 ,33 ,35 ,39 ,40 ,43 ,47 ,48 ,51 ,53 ,54 ,55 ,56 ,57
+do to cua khoi cau nho hon 140 gom bao nhieu anh 4
+1 ,13 ,37 ,49
+do to cua khoi cau lon hon 150 gom bao nhieu anh 26
+3 ,4 ,5 ,6 ,7 ,9 ,10 ,11 ,19 ,21 ,25 ,26 ,27 ,30 ,31 ,32 ,34 ,36 ,38 ,42 ,44 ,45 ,46 ,50 ,52 ,58
+Không predict duoc gom bao nhieu anh 0
+
+
+Anh C0 - Tong %\ chinh xac - Trung binh model
+xxxxxx    0.15555555555555556    0.0937547970701147
+do to cua khoi cau 140-150 gom bao nhieu anh 3
+31 ,37 ,95
+do to cua khoi cau nho hon 140 gom bao nhieu anh 0
+
+do to cua khoi cau lon hon 150 gom bao nhieu anh 18
+4 ,7 ,10 ,11 ,12 ,14 ,19 ,20 ,24 ,33 ,42 ,63 ,77 ,93 ,109 ,121 ,123 ,133
+Không predict duoc gom bao nhieu anh 0
+
+
+Anh C0C2 - Tong %\ chinh xac - Trung binh model
+xxxxxx    0.6513761467889908    0.42683161672102204
+do to cua khoi cau 140-150 gom bao nhieu anh 0
+
+do to cua khoi cau nho hon 140 gom bao nhieu anh 0
+
+do to cua khoi cau lon hon 150 gom bao nhieu anh 71
+3 ,4 ,5 ,7 ,8 ,9 ,12 ,13 ,15 ,17 ,19 ,22 ,25 ,26 ,29 ,30 ,31 ,32 ,33 ,35 ,36 ,37 ,38 ,39 ,40 ,41 ,42 ,45 ,47 ,48 ,50 ,51 ,52 ,53 ,54 ,55 ,56 ,59 ,60 ,61 ,64 ,66 ,67 ,70 ,71 ,72 ,74 ,75 ,76 ,78 ,79 ,81 ,83 ,84 ,85 ,87 ,88 ,89 ,90 ,91 ,92 ,93 ,94 ,95 ,96 ,97 ,100 ,101 ,102 ,103 ,105
+Không predict duoc gom bao nhieu anh 0
+
+

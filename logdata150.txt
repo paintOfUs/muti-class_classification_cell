@@ -1,0 +1,33 @@
+Anh 2C0 - Tong %\ chinh xac - Trung binh model
+xxxxxx    0.9310344827586207    0.6459317906149502
+do to cua khoi cau 140-150 gom bao nhieu anh 24
+2 ,8 ,11 ,14 ,15 ,16 ,18 ,23 ,26 ,28 ,30 ,35 ,39 ,40 ,41 ,43 ,46 ,47 ,48 ,51 ,53 ,54 ,55 ,57
+do to cua khoi cau nho hon 140 gom bao nhieu anh 6
+1 ,13 ,22 ,37 ,49 ,50
+do to cua khoi cau lon hon 150 gom bao nhieu anh 24
+3 ,4 ,5 ,6 ,7 ,9 ,10 ,12 ,19 ,20 ,25 ,27 ,29 ,31 ,32 ,34 ,36 ,38 ,42 ,44 ,45 ,52 ,56 ,58
+Không predict duoc gom bao nhieu anh 0
+
+
+Anh C0 - Tong %\ chinh xac - Trung binh model
+xxxxxx    0.0    0.0
+do to cua khoi cau 140-150 gom bao nhieu anh 0
+
+do to cua khoi cau nho hon 140 gom bao nhieu anh 0
+
+do to cua khoi cau lon hon 150 gom bao nhieu anh 0
+
+Không predict duoc gom bao nhieu anh 0
+
+
+Anh C0C2 - Tong %\ chinh xac - Trung binh model
+xxxxxx    0.0    0.0
+do to cua khoi cau 140-150 gom bao nhieu anh 0
+
+do to cua khoi cau nho hon 140 gom bao nhieu anh 0
+
+do to cua khoi cau lon hon 150 gom bao nhieu anh 0
+
+Không predict duoc gom bao nhieu anh 0
+
+
